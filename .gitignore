@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+#Exclude tsc generated files
+*.map
+
